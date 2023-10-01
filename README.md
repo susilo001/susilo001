@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Susilo Suharsono
 Fullstack Web Developer
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json/react)
+
+![https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
@@ -23,7 +24,16 @@ My passion for programming is the driving force behind my desire to excel and le
 -
 
 ### Technologies :
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,tailwind,nodejs,express,laravel,react,nextjs,docker)](https://skillicons.dev)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=susilo001&show_icons=true&theme=dracula)](https://github.com/susilo001/github-readme-stats) 
