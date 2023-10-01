@@ -13,7 +13,9 @@ My passion for programming is the driving force behind my desire to excel and le
 
 ### Educations :
 - B.S. in Computer Science
+
   2018 - 2023
+  
   University Amikom Yogyakarta
   
 ### Experiences :
