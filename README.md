@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Susilo Suharsono
 Fullstack Web Developer
+
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
 Currently, I am actively seeking opportunities to apply and further refine my web development skills. Despite my lack of formal work experience, I approach every task with unwavering enthusiasm and a commitment to excellence. If you are in search of a dedicated team member who is not only eager to learn and grow but also eager to contribute effectively, I encourage you to connect with me. I am open to networking and exploring potential avenues for collaboration.
@@ -21,9 +22,6 @@ My passion for programming is the driving force behind my desire to excel and le
 ### Technologies :
 -
 
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=susilo001&show_icons=true&theme=dracula)](https://github.com/susilo001/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susilo001&hide_progress=true&theme=dracula)](https://github.com/susilo001/github-readme-stats)
 
 
