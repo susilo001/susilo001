@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Susilo Suharsono
 Fullstack Web Developer
 
-![https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![www.linkedin.com/in/susilosuharsono](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
