@@ -1,7 +1,5 @@
-### Hi there 👋, I'm Susilo Suharsono
+## Hi there 👋, I'm Susilo Suharsono
 Fullstack Web Developer
-
-## About Me
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
 Currently, I am actively seeking opportunities to apply and further refine my web development skills. Despite my lack of formal work experience, I approach every task with unwavering enthusiasm and a commitment to excellence. If you are in search of a dedicated team member who is not only eager to learn and grow but also eager to contribute effectively, I encourage you to connect with me. I am open to networking and exploring potential avenues for collaboration.
