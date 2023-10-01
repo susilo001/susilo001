@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Susilo Suharsono
 Fullstack Web Developer
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json/react)
 
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
