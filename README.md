@@ -22,7 +22,7 @@ My passion for programming is the driving force behind my desire to excel and le
 -
 
 ### Technologies :
-[![My Skills](https://skillicons.dev/icons?i=php,js,ts,tailwind,node,express,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,ts,tailwind,nodejs,express,laravel,reactjs,nextjs,docker)](https://skillicons.dev)
 
 ---
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=susilo001&show_icons=true&theme=dracula)](https://github.com/susilo001/github-readme-stats) 
