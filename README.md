@@ -3,7 +3,7 @@ Fullstack Web Developer
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susilosuharsono/)
 
-<img align="right" width="250" height="250" src="https://avatars.githubusercontent.com/u/62362490?v=4"/>
+<img align="left" width="200" height="200" src="https://avatars.githubusercontent.com/u/62362490?v=4"/>
 
 I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
 
