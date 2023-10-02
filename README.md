@@ -5,15 +5,7 @@ Fullstack Web Developer
 
 <img align="right" width="200" height="200" alt="avatar" src="https://avatars.githubusercontent.com/u/62362490?v=4"/>
 
-I am a recent graduate, specializing in full-stack web development. My passion for programming and web development, combined with my dedication to personal growth, fuels my desire to make a significant impact in the technology field.
-
-Currently, I am actively seeking opportunities to apply and further refine my web development skills. Despite my lack of formal work experience, I approach every task with unwavering enthusiasm and a commitment to excellence. If you are in search of a dedicated team member who is not only eager to learn and grow but also eager to contribute effectively, I encourage you to connect with me. I am open to networking and exploring potential avenues for collaboration.
-
-Adaptability is a cornerstone of my professional ethos. In the dynamic world of web development, I embrace new technologies and eagerly anticipate change. I view learning and staying updated as indispensable elements of my journey.
-
-Collaboration is another core value I hold dear. I firmly believe in the power of collaboration and am enthusiastic about working with diverse teams. I bring a unique perspective to the table, aiming to unite our strengths and accomplish shared objectives effectively.
-
-My passion for programming is the driving force behind my desire to excel and leave a lasting, positive impact on the web development landscape. It is this love for coding that propels me forward and motivates me to continually push the boundaries of what is possible.
+I am a recent graduate specializing in full-stack web development, driven by a deep passion for programming and personal growth. I am actively seeking opportunities to apply and enhance my skills, despite limited formal experience. I approach every task with enthusiasm and a commitment to excellence, eager to learn and contribute effectively. I value adaptability in the ever-evolving tech landscape and believe in the power of collaboration. My love for coding propels me to excel and make a lasting impact in web development. Open to networking and potential collaborations.
 
 ## Educations :
 - Bachelor of Computer Science \
