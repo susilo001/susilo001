@@ -22,8 +22,9 @@ My passion for programming is the driving force behind my desire to excel and le
 - Coming soon
 
 ## Technologies :
-<div style="display: flex; flex-wrap: wrap;">
-  
+
+<div style="display: flex; flex-wrap: wrap;"></div>
+
   ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,9 +36,6 @@ My passion for programming is the driving force behind my desire to excel and le
   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
-</div>
-
-
 ## Github Stats :
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=susilo001&show_icons=true&theme=dracula)](https://github.com/susilo001/github-readme-stats) 
 
