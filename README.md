@@ -16,7 +16,9 @@ Collaboration is another core value I hold dear. I firmly believe in the power o
 My passion for programming is the driving force behind my desire to excel and leave a lasting, positive impact on the web development landscape. It is this love for coding that propels me forward and motivates me to continually push the boundaries of what is possible.
 
 ## Educations :
-- B.S. in Computer Science <br> 2018 - 2023 <br> University Amikom Yogyakarta
+- B.S. in Computer Science \
+  2018 - 2023 \
+  University Amikom Yogyakarta
   
 ## Experiences :
 - Coming soon
